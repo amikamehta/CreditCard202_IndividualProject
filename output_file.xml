@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+  <row>
+    <CardNumber>5567894523129089</CardNumber>
+    <CardType>Master Card</CardType>
+  </row>
+  <row>
+    <CardNumber>59012345678901234567890</CardNumber>
+    <CardType>Invalid: more than 19 digits</CardType>
+  </row>
+  <row>
+    <CardNumber>4123456789123</CardNumber>
+    <CardType>Visa Card</CardType>
+  </row>
+  <row>
+    <CardNumber>347856341908126</CardNumber>
+    <CardType>American Express Card</CardType>
+  </row>
+  <row>
+    <CardNumber>6011111100007756</CardNumber>
+    <CardType>Discover Card</CardType>
+  </row>
+  <row>
+    <CardNumber>3601112345678789</CardNumber>
+    <CardType>Invalid: Not a possible card number</CardType>
+  </row>
+  <row>
+    <CardNumber>5167894523129089</CardNumber>
+    <CardType>Master Card</CardType>
+  </row>
+  <row>
+    <CardNumber>4123456789123999</CardNumber>
+    <CardType>Visa Card</CardType>
+  </row>
+  <row>
+    <CardNumber>377856341908126</CardNumber>
+    <CardType>American Express Card</CardType>
+  </row>
+  <row>
+    <CardNumber>5367894523129089</CardNumber>
+    <CardType>Master Card</CardType>
+  </row>
+  <row>
+    <CardNumber>6011*890HJrt6789</CardNumber>
+    <CardType>Invalid: non numeric characters</CardType>
+  </row>
+  <row>
+    <CardNumber/>
+    <CardType>Invalid: empty/null card number</CardType>
+  </row>
+</root>

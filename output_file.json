@@ -1,0 +1,50 @@
+[
+{
+"Card Number": "5567894523129089",
+"Card Type": "Master Card"
+},
+{
+"Card Number": "59012345678901234567890",
+"Card Type": "Invalid: more than 19 digits"
+},
+{
+"Card Number": "4123456789123",
+"Card Type": "Visa Card"
+},
+{
+"Card Number": "347856341908126",
+"Card Type": "American Express Card"
+},
+{
+"Card Number": "6011111100007756",
+"Card Type": "Discover Card"
+},
+{
+"Card Number": "3601112345678789",
+"Card Type": "Invalid: Not a possible card number"
+},
+{
+"Card Number": "5167894523129089",
+"Card Type": "Master Card"
+},
+{
+"Card Number": "4123456789123999",
+"Card Type": "Visa Card"
+},
+{
+"Card Number": "377856341908126",
+"Card Type": "American Express Card"
+},
+{
+"Card Number": "5367894523129089",
+"Card Type": "Master Card"
+},
+{
+"Card Number": "6011*890HJrt6789",
+"Card Type": "Invalid: non numeric characters"
+},
+{
+"Card Number": "",
+"Card Type": "Invalid: empty/null card number"
+}
+]
