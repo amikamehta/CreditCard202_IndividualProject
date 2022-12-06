@@ -15,4 +15,4 @@ mvn clean
 
 Class Diagram - Please refer the ClassDiagram.png File
 
-For Part1 and Part2 solutions - Please refer the documentation File
+For Part1 and Part2 solutions - Please refer the Part1,Part2_Documentation.pdf File
