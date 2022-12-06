@@ -13,5 +13,6 @@ mvn test
 Command to recompile the project:
 mvn clean
 
-Refer "class diagram.png" file for class diagram
-Refer "part1+part2.docx" file for part1 and part2 solutions
+Class Diagram - Please refer the ClassDiagram.png File
+
+For Part1 and Part2 solutions - Please refer the documentation File
