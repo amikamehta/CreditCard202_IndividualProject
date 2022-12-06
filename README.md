@@ -3,7 +3,9 @@
 ##individual Project - CreditCard202
 
 Command to Run the project
-mvn compile exec:java -Dexec.mainClass="com.cmpe202.individualproject.main.App" -Dexec.args="/Users/supriyameduri/Documents/creditcard/src/test/java/sampleFiles/json_input.json /Users/supriyameduri/Documents/creditcard/src/test/java/sampleFiles/json_output.json"
+mvn compile exec:java -Dexec.mainClass="com.cmpe202.individualproject.main.App" 
+-Dexec.args= "/Users/amikamehta/IdeaProjects/CreditCard202/input_file.json"
+-Dexec.args= "/Users/amikamehta/IdeaProjects/CreditCard202/output_file.json"
 
 Command to Run tests:
 mvn test
